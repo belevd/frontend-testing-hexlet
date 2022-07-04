@@ -1,0 +1,16 @@
+{
+  "name": "frontend-testing-hexlet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --es-module-specifier-resolution=node --no-warnings ./tests/capitalize.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
